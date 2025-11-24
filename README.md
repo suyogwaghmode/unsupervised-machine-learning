@@ -1,4 +1,4 @@
-# Unsupervised Learning Explorations
+# Unsupervised Machine Learning Explorations
 
 This project is a small exploration notebook that demonstrates unsupervised learning techniques using the Iris dataset (from scikit-learn) and synthetic datasets.
 
